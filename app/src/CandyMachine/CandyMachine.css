@@ -3,6 +3,11 @@
   flex-direction: column;
 }
 
+.machine-paragraph {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+
 .gif-container {
   display: flex;
   flex-direction: column;

@@ -1,0 +1,20 @@
+{
+    "name": "Tom DeLonge",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "8ivaXsKTfWHdM82BWeRZsRLVmEuGpKvfVrbR4EG1p7gU",
+          "share": 100
+        }
+      ]
+    }
+  }
+  

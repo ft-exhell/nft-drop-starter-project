@@ -1,0 +1,20 @@
+{
+    "name": "Travis Barker",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "8ivaXsKTfWHdM82BWeRZsRLVmEuGpKvfVrbR4EG1p7gU",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
